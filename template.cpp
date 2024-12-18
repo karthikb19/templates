@@ -12,6 +12,7 @@ template<typename Head, typename... Tail> void dbg_out(Head H, Tail... T) { cerr
 #endif
 
 #define int int64_t
+#define sz(x) int(x.size())
 
 void solve(int tt){
 
